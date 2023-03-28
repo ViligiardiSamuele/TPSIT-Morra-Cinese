@@ -1,0 +1,19 @@
+/* Google Fonts */
+.M-PLUS-Rounded-1c { font-family: 'M PLUS Rounded 1c', sans-serif; }
+
+/*Class*/
+.img-border { border: 2px solid; }
+.select { border-color: green; }
+.selected { border-color: yellow; }
+.imgComp { max-height: 128px;}
+.imgMosse { max-width: 128px; max-height: 128px;}
+/*Tags*/
+img:hover {border-color: aqua; cursor: pointer; }
+button { max-width: 100px; }
+div { max-width: 800px; }
+
+/*Gradients*/
+.gradient1 {
+    background: rgb(0,186,146);
+    background: linear-gradient(90deg, rgba(0,186,146,1) 0%, rgba(168,102,255,1) 100%);
+}
